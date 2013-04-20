@@ -7,7 +7,7 @@ setup(
     download_url = 'http://github.com/simonwhitaker/PyAPNs',
     license = 'unlicense.org',
     name = 'apns',
-    py_modules = ['apns'],
+    py_modules = ['apns','apnserrors'],
     scripts = ['apns-send'],
     url = 'http://www.goosoftware.co.uk/',
     version = '1.1.2',
